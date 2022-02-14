@@ -5,4 +5,4 @@
 
 "APM466 A1 Code Output Xinqiao Li.pdf" is the PDF version of the generated R code. 
 
-"APM 466 A1 Xinqiao Li" is the Rmd file of the R code.
+"APM 466 A1 Xinqiao Li.rmd" is the Rmd file of the R code.
